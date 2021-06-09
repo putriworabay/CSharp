@@ -1,0 +1,7 @@
+C:\WORKSPACE\Sample_DotNet\.NetFramework4.8\Sample1\Sample1\bin\Debug\Sample1.exe.config
+C:\WORKSPACE\Sample_DotNet\.NetFramework4.8\Sample1\Sample1\bin\Debug\Sample1.exe
+C:\WORKSPACE\Sample_DotNet\.NetFramework4.8\Sample1\Sample1\bin\Debug\Sample1.pdb
+C:\WORKSPACE\Sample_DotNet\.NetFramework4.8\Sample1\Sample1\obj\Debug\Sample1.csproj.AssemblyReference.cache
+C:\WORKSPACE\Sample_DotNet\.NetFramework4.8\Sample1\Sample1\obj\Debug\Sample1.csproj.CoreCompileInputs.cache
+C:\WORKSPACE\Sample_DotNet\.NetFramework4.8\Sample1\Sample1\obj\Debug\Sample1.exe
+C:\WORKSPACE\Sample_DotNet\.NetFramework4.8\Sample1\Sample1\obj\Debug\Sample1.pdb
